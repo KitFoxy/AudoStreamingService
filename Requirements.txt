@@ -1,0 +1,15 @@
+****************************************
+Audio Streaming Project
+****************************************
+Language: CPP
+----------------------------------------
+
+Functional Requirements--
+    > 
+    > 
+    > 
+
+Non Functional Requirements--
+    > 
+    > 
+    > 
