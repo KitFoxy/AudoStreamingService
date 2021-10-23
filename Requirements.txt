@@ -1,7 +1,7 @@
 ****************************************
 Audio Streaming Project
 ****************************************
-Language: CPP
+Language: 
 ----------------------------------------
 
 Functional Requirements--
