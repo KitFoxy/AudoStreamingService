@@ -1,4 +1,4 @@
-#include "audioserver.h"
+#include "../headers/audioserver.h"
 
 // TCP is the protocol to be used.
 void AudioServer::start()
@@ -10,4 +10,3 @@ void AudioServer::stop()
 {
     ;
 }
-

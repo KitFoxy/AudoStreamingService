@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <audiofile genre="example">
+        <title>ExampleTitle</title>
+        <artist>Example</artist>
+        <album>ExampleIfApplicable</album>
+        <year>0000</year>
+    </audiofile>
+</root>
