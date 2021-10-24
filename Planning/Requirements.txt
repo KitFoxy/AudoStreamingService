@@ -3,10 +3,12 @@ Audio Streaming Project
 ****************************************
 Language: CPP
 ----------------------------------------
+Project Outline:
+    An audio streaming service with the purpose of improving user experience.
 
 Functional Requirements--
-    > 
-    > 
+    > Must allow for file upload and addition to audioCatalogue (XML) (Serverside)
+    > Allowing users to create a playlist (Clientside)
     > 
 
 Non Functional Requirements--
