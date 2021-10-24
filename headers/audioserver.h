@@ -1,5 +1,4 @@
 #pragma once
-#include <string>
 
 // TCP is the protocol to be used.
 class AudioServer
